@@ -2,7 +2,7 @@
 
 # Content Packages
 
-Explore additional Content Packages for use with SAP AI Core.
+Explore additional content packages for use with SAP AI Core.
 
 **Content Packages Available with SAP AI Core**
 
